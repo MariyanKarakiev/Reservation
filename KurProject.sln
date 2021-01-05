@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KurProject", "KurProject\KurProject.csproj", "{12901C33-EF11-485A-A571-6C7B67939D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{583BDABF-B62F-4AFF-B41B-8CC5B50F036B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12901C33-EF11-485A-A571-6C7B67939D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12901C33-EF11-485A-A571-6C7B67939D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12901C33-EF11-485A-A571-6C7B67939D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12901C33-EF11-485A-A571-6C7B67939D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583BDABF-B62F-4AFF-B41B-8CC5B50F036B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583BDABF-B62F-4AFF-B41B-8CC5B50F036B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583BDABF-B62F-4AFF-B41B-8CC5B50F036B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583BDABF-B62F-4AFF-B41B-8CC5B50F036B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6504D722-B02B-434C-BF14-236BDB4B21ED}
+	EndGlobalSection
+EndGlobal
